@@ -1,1 +1,1 @@
-# finalApp
+# reactMinimal
